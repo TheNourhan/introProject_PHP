@@ -5,11 +5,11 @@ This is a tutorial project to create a full stacked website using HTML, CSS, JS,
 
 - I learned the following concepts:
 1. How to plan to build a website
-2. Backend software processing:
+2. **Backend software processing**:
   - Building a database to store data
   - Receiving data from the user and storing it in a database
   - Extracting data from the database and displaying it on the web
-3. Coordination of data appearance using Frontend languages:
+3. **Coordination of data appearance using Frontend languages**:
   - Use the new bootstrap to speed up the work.
   - Modifying Bootstrap software using object-oriented programming.
   - Use external javascript libraries.
