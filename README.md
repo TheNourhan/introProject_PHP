@@ -1,7 +1,7 @@
 # Educational project
 
 ## Overview
-This is a tutorial project to create a full stacked website using HTML, CSS, JS, PHP and Mysql from a course on youtube.
+This is a tutorial project to create a full stack website using HTML, CSS, JS, PHP and Mysql from a course on youtube.
 
 - I learned the following concepts:
 1. How to plan to build a website.
