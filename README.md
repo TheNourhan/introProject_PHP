@@ -3,7 +3,7 @@
 ## Overview
 This is a tutorial project to create a full stack website using HTML, CSS, JS, PHP and Mysql from a course on youtube.
 
-- I learned the following concepts:
+- **I learned the following concepts**:
 1. How to plan to build a website.
 2. Backend software processing
 3. Building a database to store data.
